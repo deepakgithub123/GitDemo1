@@ -42,7 +42,10 @@ public class LoginPageTest extends TestBase{
 		Assert.assertEquals(logTitle, "Login");
 		
 		System.out.println("LoginTitle:"+logTitle);
-
+		System.out.println("LoginTitle1:"+logTitle);
+		System.out.println("LoginTitle2:"+logTitle);
+		
+		
 	}
 	
 	
