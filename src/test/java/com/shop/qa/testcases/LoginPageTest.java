@@ -44,7 +44,8 @@ public class LoginPageTest extends TestBase{
 		System.out.println("LoginTitle:"+logTitle);
 		System.out.println("LoginTitle1:"+logTitle);
 		System.out.println("LoginTitle2:"+logTitle);
-		
+		System.out.println("LoginTitle3:"+logTitle);
+		System.out.println("LoginTitle4:"+logTitle);
 		
 	}
 	
